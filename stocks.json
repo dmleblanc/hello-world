@@ -1,0 +1,54 @@
+{
+  "categories": {
+    "tech": {
+      "name": "Technology",
+      "stocks": [
+        {"ticker": "AAPL", "name": "Apple Inc."},
+        {"ticker": "MSFT", "name": "Microsoft Corporation"},
+        {"ticker": "GOOGL", "name": "Alphabet Inc."},
+        {"ticker": "NVDA", "name": "NVIDIA Corporation"},
+        {"ticker": "META", "name": "Meta Platforms Inc."}
+      ]
+    },
+    "agriculture": {
+      "name": "Agriculture",
+      "stocks": [
+        {"ticker": "ADM", "name": "Archer-Daniels-Midland Company"},
+        {"ticker": "DE", "name": "Deere & Company"},
+        {"ticker": "CTVA", "name": "Corteva Inc."},
+        {"ticker": "NTR", "name": "Nutrien Ltd."},
+        {"ticker": "MOS", "name": "The Mosaic Company"}
+      ]
+    },
+    "renewables": {
+      "name": "Renewable Energy",
+      "stocks": [
+        {"ticker": "ENPH", "name": "Enphase Energy Inc."},
+        {"ticker": "SEDG", "name": "SolarEdge Technologies Inc."},
+        {"ticker": "FSLR", "name": "First Solar Inc."},
+        {"ticker": "NEE", "name": "NextEra Energy Inc."},
+        {"ticker": "BEP", "name": "Brookfield Renewable Partners"}
+      ]
+    },
+    "healthcare": {
+      "name": "Healthcare",
+      "stocks": [
+        {"ticker": "JNJ", "name": "Johnson & Johnson"},
+        {"ticker": "UNH", "name": "UnitedHealth Group Inc."},
+        {"ticker": "PFE", "name": "Pfizer Inc."},
+        {"ticker": "ABBV", "name": "AbbVie Inc."},
+        {"ticker": "MRK", "name": "Merck & Co. Inc."}
+      ]
+    },
+    "finance": {
+      "name": "Financial Services",
+      "stocks": [
+        {"ticker": "JPM", "name": "JPMorgan Chase & Co."},
+        {"ticker": "BAC", "name": "Bank of America Corporation"},
+        {"ticker": "V", "name": "Visa Inc."},
+        {"ticker": "MA", "name": "Mastercard Inc."},
+        {"ticker": "GS", "name": "Goldman Sachs Group Inc."}
+      ]
+    }
+  }
+}
